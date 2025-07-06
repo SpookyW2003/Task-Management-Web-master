@@ -1,4 +1,7 @@
 📌 Project Summary: Effitask – Intelligent Task Management System
+
+Live - https://v0-new-project-8buqilweqo1.vercel.app/
+
 👨‍💻 Team
 Debadarshan Parida – Silicon University
 
